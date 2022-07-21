@@ -1,3 +1,5 @@
+Note this was done as part of the Code Academy "Computer Science" path CS101 course.
+
 # Dungeon Game
 A simple dungeon crawler to learn object-oriented related techniques.
 
